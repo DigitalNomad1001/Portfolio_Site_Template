@@ -1,0 +1,66 @@
+.col-lg-6 .col-md-6 .col-sm-6 .col-xs-6 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.col-lg-4 .col-md-4 .col-sm-4 .col-xs-4{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+header .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* NEXUS 5 Size 412px, XS
+(less than 786px no media query since this is
+default in Bootstrap)
+*/
+
+/* IPAD SIZE 768px and up, S*/
+
+@media screen and (min-width: 550px) {
+    #title-logo {
+        width: 6em;
+        height: 6em;
+    }
+}
+
+/* MD, desktops, 992px and up */
+
+@media (min-width: 950px) {
+    #title-logo {
+        width: 7em;
+        height: 7em;
+    }
+    .title-super {
+        font-size: 60px;
+    }
+}
+
+/* LG, large desktops, 1200px and up */
+
+@media (min-width: 1200px) {
+    #title-logo {
+        width: 8em;
+        height: 8em;
+    }
+    .title-super {
+        font-size: 70px;
+    }
+
+}
+
