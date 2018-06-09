@@ -1,18 +1,23 @@
-Portfolio_Site_Template
+#Portfolio_Site_Template
 
-Udacity: Full Stack Web Development Project
+##Udacity: Full Stack Web Development Project
 
-Portfolio Website: Jane Doette Template
+##### Licensing: 
+Anyone is free to use this code as you please. 
 
-Directory of Files:
-bootstrap.min.css
-responsive.css
-style.css
-images (5)
-bootstrap.min.js
-jquery-3.1.1.min.js
-index.html
-README.md
+##### Contributing: 
+Anyone is free to contribute.
 
 
-Creator: digi_life
+##### Project:
+Sample Portfolio Website for Jane Doette. Use as a template for your own portfolio website.
+
+##### Install:
+*  Bootstrap
+*  jquery
+
+##### Directions:
+* Clone the Repo
+* Open with index.html
+
+
