@@ -12,7 +12,7 @@ Anyone is free to contribute.
 ##### Project:
 This is a responsive portfolio website. Use as a template for your own portfolio website.
 
-##### Install:
+##### Download:
 *  Bootstrap
 *  jquery
 
