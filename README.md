@@ -1,6 +1,6 @@
-#Portfolio_Site_Template
+# Portfolio_Site_Template
 
-##Udacity: Full Stack Web Development Project
+## Udacity: Full Stack Web Development Project
 
 ##### Licensing: 
 Anyone is free to use this code as you please. 
