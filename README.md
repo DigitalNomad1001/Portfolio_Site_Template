@@ -10,7 +10,7 @@ Anyone is free to contribute.
 
 
 ##### Project:
-Sample Portfolio Website for Jane Doette. Use as a template for your own portfolio website.
+This is a responsive portfolio website. Use as a template for your own portfolio website.
 
 ##### Install:
 *  Bootstrap
